@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="AppVuota" expanded="True">
             <Node name="AppVuota" expanded="True">
-              <Node name="App.xaml" selected="True" />
+              <Node name="MainPage.xaml" selected="True" />
             </Node>
           </Node>
         </State>
