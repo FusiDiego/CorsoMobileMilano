@@ -3,7 +3,7 @@
     <StackLayout>
         <!-- Place new controls here -->
         <Label Text="Benvenuti in UniCredit.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
-        <Button Text="OK button"></Button>
+        <Button BackgroundColor="Red" Text="OK button"></Button>
         <Label Text="Applicazione Bancaria"></Label>
     </StackLayout>
 </ContentPage>
