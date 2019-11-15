@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9B1650CC-FC90-40AB-83CA-BEA6048DDDF6}|Default">
+  <MonoDevelop.Ide.ItemProperties.AppVuota.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppVuota/MainPage.xaml">
+    <Files>
+      <File FileName="AppVuota/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="AppVuota/MainPage.xaml" Line="9" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppVuota" expanded="True">
+            <Node name="AppVuota" expanded="True">
+              <Node name="App.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppVuota.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/corso/Projects/AppVuota/AppVuota/bin/Debug/netstandard2.0/AppVuota.deps.json
+/Users/corso/Projects/AppVuota/AppVuota/bin/Debug/netstandard2.0/AppVuota.dll
+/Users/corso/Projects/AppVuota/AppVuota/bin/Debug/netstandard2.0/ref/AppVuota.dll
+/Users/corso/Projects/AppVuota/AppVuota/bin/Debug/netstandard2.0/AppVuota.pdb
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/AppVuota.csprojAssemblyReference.cache
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/AppVuota.AssemblyInfoInputs.cache
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/AppVuota.AssemblyInfo.cs
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/AppVuota.dll
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/ref/AppVuota.dll
+/Users/corso/Projects/AppVuota/AppVuota/obj/Debug/netstandard2.0/AppVuota.pdb
